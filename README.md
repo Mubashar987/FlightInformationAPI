@@ -4,7 +4,7 @@
 1. Open the solution in Visual Studio 2022.
 2. Set the `FlightInfoApi` project as the startup project.
 3. Press `F5` to run the application.
-4. Access the Swagger UI at `http://localhost:5000/swagger`.
+4. Access the Swagger UI in your browser.
 
 ## Running Tests
 
